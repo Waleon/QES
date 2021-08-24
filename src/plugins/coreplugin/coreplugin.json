@@ -1,0 +1,13 @@
+{
+    "Name" : "Core",
+    "Version" : "1.0.5",
+    "CompatVersion" : "1.0.0",
+    "DisabledByDefault" : false,
+    "HiddenByDefault" : false,
+    "Vendor" : "Waleon",
+    "Copyright" : "Copyright (C) 2021 The eProgrammer Ltd",
+    "License" : ["eProgrammer"],
+    "Category" : "Core",
+    "Description" : "The core plugin for QES.",
+    "Url" : "https://waleon.blog.csdn.net/"
+}

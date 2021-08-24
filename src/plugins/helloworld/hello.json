@@ -1,0 +1,16 @@
+{
+    "Name" : "HelloWorld",
+    "Version" : "2.0.4",
+    "CompatVersion" : "2.0.0",
+    "DisabledByDefault" : false,
+    "HiddenByDefault" : false,
+    "Vendor" : "Waleon",
+    "Copyright" : "Copyright (C) 2021 The eProgrammer Ltd",
+    "License" : ["eProgrammer iwaleon"],
+    "Category" : "Core",
+    "Description" : "hello plugin.",
+    "Url" : "https://waleon.blog.csdn.net/",
+    "Dependencies" : [
+        { "Name" : "Core", "Version" : "2.0.1", "Type" : "optional" }
+    ]
+}
